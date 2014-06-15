@@ -2,7 +2,7 @@ TreehouseShow
 ===
 ![Treehouse Show](https://raw2.github.com/MHM5000/TreehouseShow/master/treehouseshownew.jpg)
 
-[Treehouse](http://teamtreehouse.com/) and it's great teachers will help you to have a great start in dev/des.
+[Teamtreehouse](http://teamtreehouse.com/) and it's great teachers will help you to have a great start in dev/des.
 
 Other than that, you can have a "weekly dose of internet, where they talk about web design, web development and more" ( :-D ), and a lot more in Bonus Content.(I Personally find [Exercise Your Creative](http://teamtreehouse.com/library/exercise-your-creative) quite fascinating)
 
